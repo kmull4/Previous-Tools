@@ -1,2 +1,2 @@
 # Previous-Tools
-These were made for simple job functions while working at iCoreConnect.
+These were made for job functions while working at iCoreConnect.
