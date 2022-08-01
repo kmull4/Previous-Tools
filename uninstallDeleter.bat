@@ -1,6 +1,7 @@
 ::============================================
-:: Purpose: deletes the extraneous things that uninstalling doesn't delete. Must run as admin for privileges.
-:: You still need to run uninstall under add/remove programs
+:: Purpose: deletes the extraneous things that uninstalling doesn't delete.
+:: 	Must run as admin for privileges.
+:: You still need to run uninstall under add/remove programs.
 ::============================================
 
 :: remove dir iCoreConnect, /s to delete all subfolders and subfiles
