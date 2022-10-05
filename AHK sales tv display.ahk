@@ -9,6 +9,10 @@ Make AHK to start up chrome, display the gsheet on the windows
 microcomputer, adjust view settings.
 Refreshes the process every 6 hours.
 
+Ancillary:
+Google Chrome has the Subscription Revenue gsheet as the home page and set to
+ only open this page on startup.
+
 Changelog:
 In response to user request, set an automated process to log out and log back
  in on startup and every week subseqently.
